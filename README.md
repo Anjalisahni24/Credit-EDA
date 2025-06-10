@@ -74,3 +74,11 @@ This dataset contains financial and demographic information on loan applicants.
    ```bash
    git clone https://github.com/Anjalisahni24/credit-EDA.git
    cd credit-eda
+2. Install the dependencies: pip install -r requirements.txt
+
+3. Launch the notebook: jupyter notebook
+
+## 📬 Contact
+📧 24anjalisahni@gmil.com
+🔗 https://www.linkedin.com/in/anjali-sahni-481b44238/
+🌐 GitHub: https://github.com/Anjalisahni24
