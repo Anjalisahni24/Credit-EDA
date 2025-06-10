@@ -79,6 +79,6 @@ This dataset contains financial and demographic information on loan applicants.
 3. Launch the notebook: jupyter notebook
 
 ## 📬 Contact
-📧 24anjalisahni@gmil.com
+📧 24anjalisahni@gmail.com
 🔗 https://www.linkedin.com/in/anjali-sahni-481b44238/
 🌐 GitHub: https://github.com/Anjalisahni24
