@@ -1,6 +1,6 @@
 # Credit Card Dataset - Exploratory Data Analysis (EDA)
 
-This repository contains an in-depth Exploratory Data Analysis (EDA) project conducted on the **Home Credit Default Risk** dataset from Kaggle. The project is part of my Data Science training at **Personify (OneStop AI)**. The goal is to understand the key characteristics and relationships in the data that might affect a client's ability to repay a loan.
+This repository contains an in-depth Exploratory Data Analysis (EDA) project conducted on the **Home Credit Default Risk** dataset from Kaggle. The goal is to understand the key characteristics and relationships in the data that might affect a client's ability to repay a loan.
 
 ---
 
